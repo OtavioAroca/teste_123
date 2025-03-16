@@ -1,9 +1,9 @@
-version: 2
+version : 2
 
 sources:
-  - name: teste
+  - name: name
     database: workspace
     schema: teste
     tables:
       - name: dados
-      - name: teste
+      
